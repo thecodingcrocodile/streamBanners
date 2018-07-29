@@ -163,6 +163,11 @@ div.content main h1{
   line-height: 240px;
 }
 
+div.content main h1.offline {
+  font-variant: small-caps;
+  padding: 0 180px;
+}
+
 div.content main h2{
   font-family: 'Nunito', sans-serif;
   font-weight: 800;
